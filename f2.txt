@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 of rebase
+=======
+this is f2
+>>>>>>> 6d80e97 (commit)
